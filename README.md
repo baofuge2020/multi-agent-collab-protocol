@@ -56,10 +56,14 @@ assets/
 
 纯协议文档，**不含任何脚本、IP、凭证或厂商专有命令**。环境相关的细节全部在运行时注入，不写进共享文件。
 
-## 延伸
+## 延伸阅读
 
-- 踩坑全过程复盘：[ARTICLE.md](ARTICLE.md)
-- 想要可直接跑的脚本实现或定制部署：[SELLING.md](SELLING.md)
+如果你是被具体问题搜进来的，这两篇可能直接解决你的问题：
+
+- [两个 AI agent 互相收不到消息怎么办](ARTICLE.md) —— 五个典型坑的完整复盘与解法
+- [AI agent 调用一直失败？重试越快越堵](ARTICLE-backoff.md) —— 重试风暴的根因与退避诊断表
+
+想要可直接跑的脚本实现或定制部署：[SELLING.md](SELLING.md)。有问题按 [issue 模板](.github/ISSUE_TEMPLATE/bug-report.md) 提问，定位更快。
 
 ## 许可
 
