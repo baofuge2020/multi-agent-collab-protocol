@@ -1,5 +1,7 @@
 # 多智能体协作协议（Multi-Agent Collaboration Protocol）
 
+> **产品分层**：L1 协议包（本仓库，免费）· L2 可执行工具包（¥399）· L3 定制部署（¥2000 起）。详见 [SELLING.md](SELLING.md)。
+
 分享一套我自己跑通的多智能体协作协议，纯经验，无推广。
 
 背景：本地 coordinator + 多台远程 executor，靠文件消息队列通信。
