@@ -56,4 +56,4 @@ assets/
 
 ## 许可
 
-免费使用、修改和再分发。欢迎 issue 拍砖、PR 补充你踩过的坑。
+MIT（见 [LICENSE](LICENSE)）：免费使用、修改和再分发。欢迎 issue 拍砖、PR 补充你踩过的坑。
